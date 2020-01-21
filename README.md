@@ -1,6 +1,6 @@
 TODO LIST
 
-this is a simple app to manage daily tasks.
+This is a simple app to manage daily tasks.
 
 FEATURES
 
